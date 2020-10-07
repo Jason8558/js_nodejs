@@ -1,0 +1,17 @@
+{
+  "name": "node-begining",
+  "version": "1.0.0",
+  "description": "node js testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.Bondarchyk <test@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
